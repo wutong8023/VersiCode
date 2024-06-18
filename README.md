@@ -4,9 +4,9 @@
 
 **VersiCode: Towards Version-controllable Code Generation.**
 
-![](https://img.shields.io/badge/version-v0.0.1-blue)
+![](https://img.shields.io/badge/version-v1.0.0-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![Static Badge](https://img.shields.io/badge/last_commit-May-blue)
+![Static Badge](https://img.shields.io/badge/last_commit-June-blue)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 ---
