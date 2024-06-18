@@ -5,7 +5,7 @@ paper "[VersiCode: Towards Version-controllable Code Generation](https://arxiv.o
 
 ## Requirements
 
-- Clone the Repository via `git clone https://github.com/Weigang-Wu/VersiCode.github.io.git`
+- Clone the Repository via `git clone https://github.com/wutong8023/VersiCode.git`
     - **Please email us if you need the raw data.**
 - Install dependencies via `pip install -r requirements_gpt.txt` to run the gpt scripts and evaluating scripts.
 - Install dependencies via `pip install -r requirements_vllm.txt` to run the vllm scripts
@@ -13,6 +13,8 @@ paper "[VersiCode: Towards Version-controllable Code Generation](https://arxiv.o
 
 
 ## Evaluation on VersiCode
+Unzip the VersiCode_Benchmark.zip file to get the data, and put it in the data folder.
+
 Our evaluation consists of two steps: generation and metrics calculation.
 
 
@@ -49,7 +51,7 @@ python test_token.py
 
 ```
 @article{versicode,
-  author={Tongtong Wu, Weigang Wu, Xingyu Wang, Kang Xu, Suyu Ma, Bo Jiang, Ping Yang, Zhenchang Xing, Yuan-Fang Li, Gholamreza Haffari},
+  author={Tongtong Wu and Weigang Wu and Xingyu Wang and Kang Xu and Suyu Ma and Bo Jiang and Ping Yang and Zhenchang Xing and Yuan-Fang Li and Gholamreza Haffari},
   title        = {VersiCode: Towards Version-controllable Code Generation},
   journal      = {CoRR},
   volume       = {abs/2406.07411},
