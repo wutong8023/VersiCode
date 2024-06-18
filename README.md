@@ -22,7 +22,7 @@
 This repository contains the data and inference code of 
 paper "[VersiCode: Towards Version-controllable Code Generation](https://arxiv.org/abs/2406.07411)."
 
-## Requirements
+## Preparation
 
 - Clone the Repository via `git clone https://github.com/wutong8023/VersiCode.git`
     - **Please email us if you need the raw data.**
