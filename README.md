@@ -1,6 +1,6 @@
 # VersiCode: Towards Version-controllable Code Generation
 
-This repository contains the data and inference code of the NeurIPS 2024  (Datasets and Benchmarks track)
+This repository contains the data and inference code of 
 paper "[VersiCode: Towards Version-controllable Code Generation](https://arxiv.org/abs/2406.07411)."
 
 ## Requirements
